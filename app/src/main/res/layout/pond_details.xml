@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<TableLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+    <TextView
+        android:id="@+id/pndnum"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:textSize="20dp"/>
+
+
+
+    <!-- Row 1 with 4 columns -->
+    <TableRow
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/TextView00" android:text="TEMPERATURE"
+            android:background="#b0b0b0"
+            android:textColor="#000000"
+            android:padding="18dip" android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/TextView01" android:text="pH"
+            android:background="#a09f9f"
+            android:textColor="#000000"
+            android:padding="18dip" android:gravity="center"/>
+        <TextView
+            android:id="@+id/TextView02" android:text="DATE"
+            android:background="#a09f9f"
+            android:textColor="#000000"
+            android:padding="18dip" android:gravity="center"/>
+        <TextView
+            android:id="@+id/TextView03" android:text="TIME"
+            android:background="#a09f9f"
+            android:textColor="#000000"
+            android:padding="18dip" android:gravity="center"/>
+    </TableRow>
+
+    <!-- Row 2 with 4 columns -->
+    <TableRow
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/TextView10" android:text="34.82"
+            android:background="#b0b0b0"
+        android:textColor="#000000"
+        android:padding="18dip" android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/TextView11" android:text="8.90"
+             android:background="#a09f9f"
+            android:textColor="#000000"
+            android:padding="18dip" android:gravity="center"/>
+        <TextView
+            android:id="@+id/TextView12" android:text="Today"
+            android:background="#a09f9f"
+            android:textColor="#000000"
+            android:padding="18dip" android:gravity="center"/>
+        <TextView
+            android:id="@+id/TextView13" android:text="12:43PM"
+            android:background="#a09f9f"
+            android:textColor="#000000"
+            android:padding="18dip" android:gravity="center"/>
+    </TableRow>
+
+
+    <!-- Row 3 with 4 columns -->
+    <TableRow
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/TextView20" android:text="34.82"
+            android:background="#b0b0b0"
+            android:textColor="#000000"
+            android:padding="18dip" android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/TextView21" android:text="8.90"
+            android:background="#a09f9f"
+            android:textColor="#000000"
+            android:padding="18dip" android:gravity="center"/>
+        <TextView
+            android:id="@+id/TextView22" android:text="Today"
+            android:background="#a09f9f"
+            android:textColor="#000000"
+            android:padding="18dip" android:gravity="center"/>
+        <TextView
+            android:id="@+id/TextView23" android:text="12:43PM"
+            android:background="#a09f9f"
+            android:textColor="#000000"
+            android:padding="18dip" android:gravity="center"/>
+    </TableRow>
+
+    <!-- Row 4 with 4 columns -->
+    <TableRow
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/TextView30" android:text="34.82"
+            android:background="#b0b0b0"
+            android:textColor="#000000"
+            android:padding="18dip" android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/TextView31" android:text="8.90"
+            android:background="#a09f9f"
+            android:textColor="#000000"
+            android:padding="18dip" android:gravity="center"/>
+        <TextView
+            android:id="@+id/TextView32" android:text="Today"
+            android:background="#a09f9f"
+            android:textColor="#000000"
+            android:padding="18dip" android:gravity="center"/>
+        <TextView
+            android:id="@+id/TextView33" android:text="12:43PM"
+            android:background="#a09f9f"
+            android:textColor="#000000"
+            android:padding="18dip" android:gravity="center"/>
+    </TableRow>
+
+
+</TableLayout>

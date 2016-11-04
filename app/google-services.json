@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1073803261528",
+    "project_id": "firebase-matsya"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073803261528:android:4c87805ff0a54c8d",
+        "android_client_info": {
+          "package_name": "com.prapanca.matsya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073803261528-47a49ljrf9uaajcuhjmnqkc280v10tpl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prapanca.matsya",
+            "certificate_hash": "7C9424FEC50C4FA6C1661BC00D97FD6040C39C91"
+          }
+        },
+        {
+          "client_id": "1073803261528-1uhseqfgn9o54jcktereoimg4dhf9anv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsHVsJlzS65GAkeSVus65JdhFbBfRPpcA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
